@@ -1,0 +1,28 @@
+[
+    {
+      "Product": "Samsung Mobile",
+      "color": "Brown",
+      "Price": "$40.77"
+    },
+    {
+      "Product": "Lenova Laptop",
+      "color": "Black",
+      "Price": "$21.45"
+    },
+    {
+      "Product": "Cannon Camera",
+      "color": "Pink",
+      "Price": "$101.50"
+    },
+    {
+        "Product": "Zebronic Drive",
+        "color": "Silver",
+        "Price": "$15"
+    },
+    {
+        "Product": "Samsung SSD",
+        "color": "Silver",
+        "Price": "$100"
+     }
+
+]
